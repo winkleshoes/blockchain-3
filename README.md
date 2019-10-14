@@ -5,3 +5,4 @@ npm install --save solc
 
 untuk windows install juga:
 npm install --global --production windows-build-tools (run administrator)
+kaos 2019
